@@ -1,0 +1,12 @@
+
+f
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+:
+java:S1168"$Return an empty map instead of null.(¥¹ï
+:
+java:S1168"$Return an empty map instead of null.(¥¹ï
+X	java:S125"<This block of commented-out lines of code should be removed.(¯ú¥8ïÌÎ¸™1
+R
+java:S1068	"0Remove this unused "tabloService" private field.(–ó¯™şÿÿÿÿ8ğÌÎ¸™1
